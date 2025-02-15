@@ -1,4 +1,5 @@
-# Conceder-Permiss-es-for-hd
+# Conceder-Permissão para hd
+
 
 
 O método que usamos é chamado de "Assumir Propriedade e Conceder Permissões". Ele é usado para recuperar o controle de arquivos ou unidades que pertenciam a outro usuário ou sistema operacional.
